@@ -1,0 +1,13 @@
+To install the packages run " npm install --save <name of package>" (except nodemon) in your terminal.
+
+Use " npm install --save-dev nodemon" command to install nodemon package.
+
+Here are some Packages you have to install in your Device:
+    
+    
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
